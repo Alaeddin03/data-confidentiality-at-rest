@@ -1,0 +1,25 @@
+{
+  "name": "data-sec-at-rest",
+  "version": "1.0.0",
+  "description": "A simple database application that inserts encrypted data into the database, retrieves it, and then displays it on the console in a plain form.",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "tsc && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.2",
+    "@types/node": "^20.12.7",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.13.0",
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "mysql2": "^3.9.7",
+    "prisma": "^5.13.0"
+  }
+}
