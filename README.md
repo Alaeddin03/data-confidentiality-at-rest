@@ -8,6 +8,7 @@ It is a basic app that encrypts and stores data into a MySQL database. Then, it 
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Docs](#docs)
 
 ## Installation
 
