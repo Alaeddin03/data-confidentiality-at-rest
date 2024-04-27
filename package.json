@@ -4,7 +4,7 @@
   "description": "A simple database application that inserts encrypted data into the database, retrieves it, and then displays it on the console in a plain form.",
   "main": "index.ts",
   "scripts": {
-    "dev": "tsc && node index.js",
+    "dev": "tsc && node dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
