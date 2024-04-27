@@ -2,7 +2,7 @@
 
 This project is done as an assignment in SE 472 - Software Security course at UPM. 
 
-It is a basic app that encrypts and stores data into a MySQL database. Then, it retrieves the data and decrypts to present in plain text.
+It is a basic app that encrypts and stores data into a MySQL database. Then, it retrieves the data and decrypts it to present it in plain text.
 
 ## Table of Contents
 
